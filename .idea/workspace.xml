@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80b53498-d72c-4718-9f90-85e8adc4e0cb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f5ZkKqqoCkA8QZ8yghSf8KNDCg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TestCases_ats" />
+      <recent name="$PROJECT_DIR$/TestCases_nmb" />
+      <recent name="$PROJECT_DIR$/Outputs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in test_recharge.py">
+    <configuration name="func_getphone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ats_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Common/func_getphone.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ats_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_recharge.TestRecharge" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ats_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases_nmb" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_recharge.TestRecharge&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_nmb_register.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ats_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases_nmb" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCases_nmb/test_nmb_register.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_recharge.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ats_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases_nmb" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCases_nmb/test_recharge.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in test_recharge.py" />
+        <item itemvalue="Python tests.Unittests for test_recharge.TestRecharge" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.func_getphone" />
+        <item itemvalue="Python tests.Unittests in test_nmb_register.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80b53498-d72c-4718-9f90-85e8adc4e0cb" name="Default Changelist" comment="" />
+      <created>1595510055114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595510055114</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ini" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2184" y="383" width="1071" height="721" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595577020960">
+      <screen x="1440" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2184" y="383" width="1071" height="721" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1595577020960" />
+    <state x="2449" y="530" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595853750456">
+      <screen x="1440" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2449" y="530" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1595853750456" />
+    <state x="2458" y="475" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596439872350">
+      <screen x="1440" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2458" y="475" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1596439872350" />
+    <state x="2483" y="433" key="#xdebugger.evaluate" timestamp="1596512417106">
+      <screen x="1440" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2483" y="433" key="#xdebugger.evaluate/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1596512417106" />
+    <state width="2539" height="423" key="GridCell.Tab.0.bottom" timestamp="1597045100063">
+      <screen x="1440" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="423" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1597045100063" />
+    <state width="2539" height="423" key="GridCell.Tab.0.center" timestamp="1597045100060">
+      <screen x="1440" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="423" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1597045100060" />
+    <state width="2539" height="423" key="GridCell.Tab.0.left" timestamp="1597045100058">
+      <screen x="1440" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="423" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1597045100058" />
+    <state width="2539" height="423" key="GridCell.Tab.0.right" timestamp="1597045100061">
+      <screen x="1440" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="423" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1597045100061" />
+    <state width="2539" height="519" key="GridCell.Tab.1.bottom" timestamp="1596512421094">
+      <screen x="1440" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="519" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1596512421094" />
+    <state width="2539" height="519" key="GridCell.Tab.1.center" timestamp="1596512421093">
+      <screen x="1440" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="519" key="GridCell.Tab.1.center/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1596512421093" />
+    <state width="2539" height="519" key="GridCell.Tab.1.left" timestamp="1596512421092">
+      <screen x="1440" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="519" key="GridCell.Tab.1.left/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1596512421092" />
+    <state width="2539" height="519" key="GridCell.Tab.1.right" timestamp="1596512421093">
+      <screen x="1440" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="519" key="GridCell.Tab.1.right/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1596512421093" />
+    <state x="2229" y="359" key="SettingsEditor" timestamp="1595510102582">
+      <screen x="1440" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2229" y="359" key="SettingsEditor/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1595510102582" />
+    <state width="1280" height="720" key="XDebugger.FullValuePopup" timestamp="1596512035807">
+      <screen x="1440" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1280" height="720" key="XDebugger.FullValuePopup/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1596512035807" />
+    <state x="2385" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1595582146657">
+      <screen x="1440" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2385" y="331" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1595582146657" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TestCases_nmb/test_nmb_register.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
